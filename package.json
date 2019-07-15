@@ -1,0 +1,19 @@
+{
+  "name": "password-manager",
+  "version": "1.0.0",
+  "description": "Password Manager built with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianNW/password-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianNW/password-manager/issues"
+  },
+  "homepage": "https://github.com/BrianNW/password-manager#readme"
+}
